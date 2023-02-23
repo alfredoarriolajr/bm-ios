@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "50e1e891-0400-4bad-89c3-3e895dac4ec7"
+      }
+    },
+    "owner": "alfredoarriolajr"
   }
 }
